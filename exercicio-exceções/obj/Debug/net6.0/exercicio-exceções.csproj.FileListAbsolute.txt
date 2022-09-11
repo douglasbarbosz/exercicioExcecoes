@@ -1,0 +1,15 @@
+C:\Users\Uso Exclusivo\Desktop\curso C#\tratamento de exceções\exercicio\exercicio-exceções\exercicio-exceções\bin\Debug\net6.0\exercicio-exceções.exe
+C:\Users\Uso Exclusivo\Desktop\curso C#\tratamento de exceções\exercicio\exercicio-exceções\exercicio-exceções\bin\Debug\net6.0\exercicio-exceções.deps.json
+C:\Users\Uso Exclusivo\Desktop\curso C#\tratamento de exceções\exercicio\exercicio-exceções\exercicio-exceções\bin\Debug\net6.0\exercicio-exceções.runtimeconfig.json
+C:\Users\Uso Exclusivo\Desktop\curso C#\tratamento de exceções\exercicio\exercicio-exceções\exercicio-exceções\bin\Debug\net6.0\exercicio-exceções.dll
+C:\Users\Uso Exclusivo\Desktop\curso C#\tratamento de exceções\exercicio\exercicio-exceções\exercicio-exceções\bin\Debug\net6.0\exercicio-exceções.pdb
+C:\Users\Uso Exclusivo\Desktop\curso C#\tratamento de exceções\exercicio\exercicio-exceções\exercicio-exceções\obj\Debug\net6.0\exercicio-exceções.csproj.AssemblyReference.cache
+C:\Users\Uso Exclusivo\Desktop\curso C#\tratamento de exceções\exercicio\exercicio-exceções\exercicio-exceções\obj\Debug\net6.0\exercicio-exceções.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Uso Exclusivo\Desktop\curso C#\tratamento de exceções\exercicio\exercicio-exceções\exercicio-exceções\obj\Debug\net6.0\exercicio-exceções.AssemblyInfoInputs.cache
+C:\Users\Uso Exclusivo\Desktop\curso C#\tratamento de exceções\exercicio\exercicio-exceções\exercicio-exceções\obj\Debug\net6.0\exercicio-exceções.AssemblyInfo.cs
+C:\Users\Uso Exclusivo\Desktop\curso C#\tratamento de exceções\exercicio\exercicio-exceções\exercicio-exceções\obj\Debug\net6.0\exercicio-exceções.csproj.CoreCompileInputs.cache
+C:\Users\Uso Exclusivo\Desktop\curso C#\tratamento de exceções\exercicio\exercicio-exceções\exercicio-exceções\obj\Debug\net6.0\exercicio-exceções.dll
+C:\Users\Uso Exclusivo\Desktop\curso C#\tratamento de exceções\exercicio\exercicio-exceções\exercicio-exceções\obj\Debug\net6.0\refint\exercicio-exceções.dll
+C:\Users\Uso Exclusivo\Desktop\curso C#\tratamento de exceções\exercicio\exercicio-exceções\exercicio-exceções\obj\Debug\net6.0\exercicio-exceções.pdb
+C:\Users\Uso Exclusivo\Desktop\curso C#\tratamento de exceções\exercicio\exercicio-exceções\exercicio-exceções\obj\Debug\net6.0\exercicio-exceções.genruntimeconfig.cache
+C:\Users\Uso Exclusivo\Desktop\curso C#\tratamento de exceções\exercicio\exercicio-exceções\exercicio-exceções\obj\Debug\net6.0\ref\exercicio-exceções.dll
